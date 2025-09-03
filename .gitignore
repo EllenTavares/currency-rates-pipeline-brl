@@ -1,0 +1,11 @@
+# venv / caches
+venv/
+__pycache__/
+.pytest_cache/
+
+# segredos
+.env
+
+# dados grandes/voláteis (opcional)
+data/raw/
+data/silver/

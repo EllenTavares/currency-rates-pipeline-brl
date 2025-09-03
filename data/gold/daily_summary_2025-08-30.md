@@ -1,0 +1,7 @@
+Resumo Cambial - 30/08/2025
+
+O dólar americano (USD) está cotado a R$ 5,4187, mantendo-se estável em relação ao dia anterior.
+
+O euro (EUR) apresenta uma cotação de R$ 6,3303, refletindo uma leve alta no mercado internacional.
+
+O peso argentino (ARS) está a R$ 0,0041, evidenciando a desvalorização da moeda em relação ao real.
