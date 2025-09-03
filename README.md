@@ -173,7 +173,7 @@ Prompt executivo em português, sem jargões, destacando USD/EUR e moedas region
 Exemplos de saídas esperadas:
 “O euro (EUR) está cerca de +5% em relação ao mês passado.”
 “A volatilidade do JPY frente ao USD ficou acima da média semanal.”
-“Explique em termos simples como variaram as 5 principais moedas frente ao real hoje.”
+
 
 Troubleshooting
 
